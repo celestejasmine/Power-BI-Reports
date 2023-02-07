@@ -1,4 +1,4 @@
-# Power-BI-Reports
+# Power BI Reports
 This repository is a portfolio to present my Power BI report projects.
 
 ## Data Professional Survey
